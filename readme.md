@@ -12,11 +12,11 @@ Zajímá mě, jaká bude za 30 let návratnost pro mě osobně, kolik % z toho z
 
 Použil jsem 4 assety + balancované portfolio:
 
-SP500: {"return": 0.08, "std_dev": 0.18},
-Land: {"return": 0.03, "std_dev": 0.10},
-Rental_Property: {"return": 0.07, "std_dev": 0.15},
-Business: {"return": 0.10, "std_dev": 0.25},
-Balanced_Portfolio: {"return": (0.08 + 0.03 + 0.07 + 0.10) / 4, "std_dev": (0.18 + 0.10 + 0.15 + 0.25) / 4}  # Average return and standard deviation
+* SP500: {"return": 0.08, "std_dev": 0.18},
+* Land: {"return": 0.03, "std_dev": 0.10},
+* Rental_Property: {"return": 0.07, "std_dev": 0.15},
+* Business: {"return": 0.10, "std_dev": 0.25},
+* Balanced_Portfolio: {"return": (0.08 + 0.03 + 0.07 + 0.10) / 4, "std_dev": (0.18 + 0.10 + 0.15 + 0.25) / 4}  # Average return and standard deviation
 
 U riskantnějších assetů jsem dal vyšší std_dev. ROI i volatilita by se daly dosadit přesně, ale hádám, že by to to hlavní (výsledky - tedy masivní propad kapitálu a masivní zdanění, které nezachytává jen interest, ale i ten kapitál, v řádu cca 10 let) nezměnilo.
 
